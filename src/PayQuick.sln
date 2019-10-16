@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayQuick.Client", "PayQuick.Client\PayQuick.Client.csproj", "{3F2340EB-39BB-4781-9EDB-400244D7BAF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayQuick.Api", "PayQuick.Api\PayQuick.Api.csproj", "{AA85C4DD-36C4-4930-9448-DEFA1B2DB4CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayQuick.Contracts", "PayQuick.Contracts\PayQuick.Contracts.csproj", "{A4CEBF91-424B-44D2-BD23-F3E41FAF3E1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayQuick.Domain", "PayQuick.Domain\PayQuick.Domain.csproj", "{5A9E876C-8F63-4B05-8C93-73D37EC9FD1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F2340EB-39BB-4781-9EDB-400244D7BAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2340EB-39BB-4781-9EDB-400244D7BAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2340EB-39BB-4781-9EDB-400244D7BAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2340EB-39BB-4781-9EDB-400244D7BAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA85C4DD-36C4-4930-9448-DEFA1B2DB4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA85C4DD-36C4-4930-9448-DEFA1B2DB4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA85C4DD-36C4-4930-9448-DEFA1B2DB4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA85C4DD-36C4-4930-9448-DEFA1B2DB4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4CEBF91-424B-44D2-BD23-F3E41FAF3E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4CEBF91-424B-44D2-BD23-F3E41FAF3E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4CEBF91-424B-44D2-BD23-F3E41FAF3E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4CEBF91-424B-44D2-BD23-F3E41FAF3E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A9E876C-8F63-4B05-8C93-73D37EC9FD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9E876C-8F63-4B05-8C93-73D37EC9FD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A9E876C-8F63-4B05-8C93-73D37EC9FD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9E876C-8F63-4B05-8C93-73D37EC9FD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
